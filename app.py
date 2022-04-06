@@ -10,7 +10,12 @@
 # age = 23
 # message = "Happy " + str(age) + "rd Birthday!"
 # print(message)
-estoque = ['arroz',
-           'Feijao', 'açucar', 'milho']
-print(estoque[2].title())  # o .title() escreve em maiusculo
-print(estoque[1])
+# estoque = ['arroz',
+#            'Feijao', 'açucar', 'milho']
+# print(estoque[2].title())  # o .title() escreve em maiusculo
+# print(estoque[1])
+
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+message = "My first bicycle was a " + bicycles[0].title() + "."
+print(message)
+ 
