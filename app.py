@@ -15,7 +15,7 @@
 # print(estoque[2].title())  # o .title() escreve em maiusculo
 # print(estoque[1])
 
-bicycles = ['trek', 'cannondale', 'redline', 'specialized']
-message = "My first bicycle was a " + bicycles[0].title() + "."
-print(message)
- 
+# nomes= ['Robson ', 'Adilson', 'carlos']
+# print(nomes[0].title())
+# print(nomes[1].title())
+# print(nomes[2].title())
